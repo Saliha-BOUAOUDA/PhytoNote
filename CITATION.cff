@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "PhytoNote"
+abstract: >-
+  Application Flutter offline-first (Android et Linux desktop) de saisie
+  validée en temps réel pour spectrophotométrie UV en chimie des plantes.
+  Huit tests intégrés (DPPH, ABTS, FRAP, CAT, TPC, TFC, antibactérien,
+  anti-inflammatoire) avec validation visuelle en 200 ms, calibration formelle
+  par régression linéaire, IC50 live, vue plaque 96 puits pour la microdilution,
+  et export Excel multi-feuilles. Conçue pour la saisie au labo en conditions
+  réelles : 100 % hors-ligne, ergonomie compatible gants, auto-commit live.
+authors:
+  - given-names: Saliha
+    family-names: BOUAOUDA
+    email: sl.bouaouda@gmail.com
+    orcid: "https://orcid.org/0009-0000-9663-462X"
+    city: Casablanca
+    country: MA
+version: "1.0.1"
+date-released: "2026-05-25"
+license: GPL-3.0-or-later
+repository-code: "https://github.com/Saliha-BOUAOUDA/PhytoNote"
+url: "https://phytochemhub.com/"
+keywords:
+  - flutter
+  - dart
+  - spectrophotometry
+  - UV-Vis
+  - phytochemistry
+  - DPPH
+  - ABTS
+  - FRAP
+  - antioxidant-assay
+  - antibacterial-assay
+  - anti-inflammatory-assay
+  - laboratory-software
+  - offline-first
+  - IC50
+  - calibration-curve

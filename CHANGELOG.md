@@ -2,6 +2,25 @@
 
 Toutes les versions publiées de PhytoNote. Format inspiré de [Keep a Changelog](https://keepachangelog.com/), versionnement [SemVer](https://semver.org/).
 
+## [1.0.1] — 2026-05-25
+
+Patch publié le jour-même de v1.0.0 : correctifs ciblés et enrichissement de l'identité publique pour l'archivage Zenodo.
+
+### Corrections
+- **Version affichée corrigée** : l'écran *Paramètres → À propos* affichait `1.4.0 (build 18)` au lieu de la version réelle de la release. Constante désormais synchronisée avec `pubspec.yaml`.
+- **Label utilisateur "PhytoNote"** : capitale initiale sur le launcher Android et la titlebar GTK Linux (au lieu de `phytonote` en minuscules).
+
+### Métadonnées & identité publique
+- **`LICENSE`** : en-tête avec copyright Saliha BOUAOUDA + ORCID + bloc d'application de la licence (modèle FSF) avant le texte GPL standard.
+- **`README.md`** : nouvelle section *Auteur* avec carte de contact complète (email, hub, LinkedIn, ResearchGate, ORCID, Casablanca/Maroc).
+- **`pubspec.yaml`** : ajout des champs `homepage`, `repository`, `issue_tracker`.
+- **Écran *Paramètres*** : ligne `ORCID 0009-0000-9663-462X` ajoutée sous le copyright en pied d'écran.
+
+### Citabilité scientifique
+- **`CITATION.cff`** ajouté à la racine pour intégration Zenodo. Permet la délivrance d'un DOI permanent à la publication de la release sur GitHub, et l'apparition automatique de l'œuvre sur le profil ORCID de l'autrice.
+
+[1.0.1]: https://github.com/Saliha-BOUAOUDA/PhytoNote/releases/tag/v1.0.1
+
 ## [1.0.0] — 2026-05-25
 
 ### Premier lancement public
