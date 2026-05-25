@@ -9,6 +9,7 @@ Patch publié le jour-même de v1.0.0 : correctifs ciblés et enrichissement de 
 ### Corrections
 - **Version affichée corrigée** : l'écran *Paramètres → À propos* affichait `1.4.0 (build 18)` au lieu de la version réelle de la release. Constante désormais synchronisée avec `pubspec.yaml`.
 - **Label utilisateur "PhytoNote"** : capitale initiale sur le launcher Android et la titlebar GTK Linux (au lieu de `phytonote` en minuscules).
+- **Stockage de la base de données déplacé** (Linux desktop) : la DB SQLite atterrissait dans `~/Documents/phytonote.db` (dossier user-visible, risque de suppression accidentelle ou de synchronisation cloud). Désormais dans `~/.local/share/phytonote/` (privé à l'application, conforme XDG Base Directory). Sur Android le comportement reste identique (sandbox app-privée). Les exports Excel continuent d'aller dans `~/Documents/PhytoNote_exports/` comme prévu.
 
 ### Métadonnées & identité publique
 - **`LICENSE`** : en-tête avec copyright Saliha BOUAOUDA + ORCID + bloc d'application de la licence (modèle FSF) avant le texte GPL standard.

@@ -10,7 +10,7 @@ class AppDatabase {
 
   static Future<Database> open() async {
     if (_instance != null) return _instance!;
-    final dir = await getApplicationDocumentsDirectory();
+    final dir = await getApplicationSupportDirectory();
     final path = p.join(dir.path, _dbFile);
     _instance = await openDatabase(
       path,
