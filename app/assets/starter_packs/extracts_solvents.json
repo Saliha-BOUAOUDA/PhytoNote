@@ -1,0 +1,116 @@
+{
+  "name": "Solvants courants — extraction phytochimique",
+  "description": "Solvants/extraits les plus utilisés en littérature antioxydante (Zouine 2024, Mehmood 2022, Lezoul 2020). Activés par défaut.",
+  "category": "extract",
+  "version": "1.0",
+  "entries": [
+    {
+      "abbreviation": "MeOH",
+      "name": "Extrait méthanolique",
+      "metadata": {
+        "polarity": "très polaire",
+        "high_concentration": false,
+        "notes": "Solvant n°1 en littérature (31% des études). Toxique pour usage humain — extraits à évaporer avant consommation."
+      }
+    },
+    {
+      "abbreviation": "EtOH",
+      "name": "Extrait éthanolique",
+      "metadata": {
+        "polarity": "polaire",
+        "high_concentration": false,
+        "notes": "Solvant n°2 (20%). Plus sûr que MeOH. Cible polyphénols, flavonoïdes, alcaloïdes."
+      }
+    },
+    {
+      "abbreviation": "H₂O",
+      "name": "Extrait aqueux (décoction)",
+      "metadata": {
+        "polarity": "très polaire",
+        "high_concentration": false,
+        "notes": "Méthode traditionnelle. Cible composés hydrosolubles, tanins, sucres."
+      }
+    },
+    {
+      "abbreviation": "EO",
+      "name": "Huile essentielle",
+      "metadata": {
+        "polarity": "apolaire",
+        "high_concentration": true,
+        "notes": "Hydrodistillation. Cible terpènes, composés volatils. Concentrations dilution élevées."
+      }
+    },
+    {
+      "abbreviation": "EtOH/H₂O 70:30",
+      "name": "Hydroéthanolique 70 %",
+      "metadata": {
+        "polarity": "polaire mixte",
+        "high_concentration": false,
+        "notes": "Standard de routine. Cible flavonoïdes et polyphénols."
+      }
+    },
+    {
+      "abbreviation": "Acétone",
+      "name": "Extrait à l'acétone",
+      "metadata": {
+        "polarity": "polaire intermédiaire",
+        "high_concentration": false,
+        "notes": "Excellent pour macération (Lezoul 2020). Cible flavonoïdes."
+      }
+    },
+    {
+      "abbreviation": "EtOAc",
+      "name": "Extrait à l'acétate d'éthyle",
+      "metadata": {
+        "polarity": "polaire intermédiaire",
+        "high_concentration": false,
+        "notes": "Fraction enrichie en aglycones flavonoïdiques (Wang 2021)."
+      }
+    },
+    {
+      "abbreviation": "n-BuOH",
+      "name": "Extrait n-butanolique",
+      "metadata": {
+        "polarity": "polaire intermédiaire",
+        "high_concentration": false,
+        "notes": "Fraction de partition. Cible glycosides, saponines."
+      }
+    },
+    {
+      "abbreviation": "CHCl₃",
+      "name": "Extrait chloroformique",
+      "metadata": {
+        "polarity": "apolaire",
+        "high_concentration": false,
+        "notes": "Cible alcaloïdes, lipides, terpènes. Très toxique — manipulation sous hotte."
+      }
+    },
+    {
+      "abbreviation": "DCM",
+      "name": "Extrait au dichlorométhane",
+      "metadata": {
+        "polarity": "apolaire",
+        "high_concentration": false,
+        "notes": "Alternative au CHCl₃. Cible composés peu polaires."
+      }
+    },
+    {
+      "abbreviation": "n-Hex",
+      "name": "Extrait n-hexanique",
+      "metadata": {
+        "polarity": "très apolaire",
+        "high_concentration": true,
+        "notes": "Délipidation préalable. Cible lipides, cires, caroténoïdes."
+      }
+    },
+    {
+      "abbreviation": "PE",
+      "name": "Extrait à l'éther de pétrole",
+      "metadata": {
+        "polarity": "très apolaire",
+        "high_concentration": true,
+        "notes": "Fraction non-polaire (Wang 2021). Cible lipides, terpènes."
+      }
+    }
+  ]
+}

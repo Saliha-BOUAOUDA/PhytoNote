@@ -1,0 +1,38 @@
+{
+  "name": "Standards anti-inflammatoires",
+  "description": "AINS de référence pour BSA denaturation, COX/LOX inhibition.",
+  "category": "standard",
+  "version": "1.0",
+  "entries": [
+    {
+      "abbreviation": "DICLO",
+      "name": "Diclofénac sodium",
+      "metadata": {
+        "equivalent_label": "DicloE",
+        "chembl_id": "CHEMBL1034",
+        "molar_mass_g_per_mol": 318.13,
+        "notes": "AINS de référence pour BSA denaturation, membrane stabilization."
+      }
+    },
+    {
+      "abbreviation": "ASA",
+      "name": "Acide acétylsalicylique",
+      "metadata": {
+        "equivalent_label": "ASAeq",
+        "chembl_id": "CHEMBL25",
+        "molar_mass_g_per_mol": 180.16,
+        "notes": "Aspirine. Alternative anti-inflammatoire."
+      }
+    },
+    {
+      "abbreviation": "INDO",
+      "name": "Indométhacine",
+      "metadata": {
+        "equivalent_label": "INDOeq",
+        "chembl_id": "CHEMBL6",
+        "molar_mass_g_per_mol": 357.79,
+        "notes": "AINS classique, COX-1 inhibitor."
+      }
+    }
+  ]
+}

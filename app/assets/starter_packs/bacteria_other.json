@@ -1,0 +1,28 @@
+{
+  "name": "Bactéries — autres souches utiles",
+  "description": "Souches additionnelles : anti-ulcère, antifongique, urolithiase.",
+  "category": "bacteria",
+  "version": "1.0",
+  "entries": [
+    {
+      "abbreviation": "S. pyogenes",
+      "name": "Streptococcus pyogenes",
+      "metadata": { "gram": "+", "atcc_suggested": "ATCC 19615", "notes": "Pyogène." }
+    },
+    {
+      "abbreviation": "P. vulgaris",
+      "name": "Proteus vulgaris",
+      "metadata": { "gram": "−", "atcc_suggested": "ATCC 13315", "notes": "ITU, urolithiase liée à uréase." }
+    },
+    {
+      "abbreviation": "H. pylori",
+      "name": "Helicobacter pylori",
+      "metadata": { "gram": "−", "atcc_suggested": "ATCC 43504", "notes": "Gastro-pathogène, lien avec uréase." }
+    },
+    {
+      "abbreviation": "C. albicans",
+      "name": "Candida albicans",
+      "metadata": { "gram": "levure", "atcc_suggested": "ATCC 10231", "notes": "Antifongique de référence." }
+    }
+  ]
+}

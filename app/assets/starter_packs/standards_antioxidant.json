@@ -1,0 +1,68 @@
+{
+  "name": "Standards antioxydants",
+  "description": "Standards de référence pour DPPH, ABTS, FRAP, CAT, TPC, TFC.",
+  "category": "standard",
+  "version": "1.0",
+  "entries": [
+    {
+      "abbreviation": "AA",
+      "name": "Acide ascorbique",
+      "metadata": {
+        "equivalent_label": "AAE",
+        "chembl_id": "CHEMBL196",
+        "molar_mass_g_per_mol": 176.12,
+        "notes": "Standard universel DPPH/ABTS/FRAP. Hydrosoluble."
+      }
+    },
+    {
+      "abbreviation": "BHT",
+      "name": "Butylhydroxytoluène",
+      "metadata": {
+        "equivalent_label": "BHTeq",
+        "chembl_id": "CHEMBL146045",
+        "molar_mass_g_per_mol": 220.35,
+        "notes": "Antioxydant synthétique liposoluble. Standard CAT classique."
+      }
+    },
+    {
+      "abbreviation": "TRX",
+      "name": "Trolox",
+      "metadata": {
+        "equivalent_label": "TE",
+        "chembl_id": "CHEMBL84927",
+        "molar_mass_g_per_mol": 250.29,
+        "notes": "Analogue hydrosoluble de la vitamine E. Standard ABTS / TEAC."
+      }
+    },
+    {
+      "abbreviation": "GA",
+      "name": "Acide gallique",
+      "metadata": {
+        "equivalent_label": "GAE",
+        "chembl_id": "CHEMBL288114",
+        "molar_mass_g_per_mol": 170.12,
+        "notes": "Standard universel TPC (Folin-Ciocalteu)."
+      }
+    },
+    {
+      "abbreviation": "QUE",
+      "name": "Quercétine",
+      "metadata": {
+        "equivalent_label": "QE",
+        "chembl_id": "CHEMBL50",
+        "molar_mass_g_per_mol": 302.24,
+        "notes": "Standard usuel TFC (méthode AlCl₃). Aussi anti-inflammatoire."
+      }
+    },
+    {
+      "abbreviation": "CAT_S",
+      "name": "Catéchine",
+      "metadata": {
+        "equivalent_label": "CE",
+        "chembl_id": "CHEMBL348659",
+        "molar_mass_g_per_mol": 290.27,
+        "notes": "Alternative à la quercétine pour TFC."
+      }
+    }
+  ]
+}

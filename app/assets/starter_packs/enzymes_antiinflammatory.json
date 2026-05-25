@@ -1,0 +1,48 @@
+{
+  "name": "Enzymes — anti-inflammatoire",
+  "description": "Cibles pour les inhibiteurs anti-inflammatoires d'origine végétale.",
+  "category": "enzyme",
+  "version": "1.0",
+  "entries": [
+    {
+      "abbreviation": "COX-2",
+      "name": "Cyclo-oxygénase-2",
+      "metadata": {
+        "ec_number": "1.14.99.1",
+        "chembl_id": "CHEMBL230",
+        "applicable_tests": ["ANTIINF"],
+        "notes": "Cible des AINS (diclofénac, indométhacine). Voie des prostaglandines."
+      }
+    },
+    {
+      "abbreviation": "5-LOX",
+      "name": "5-Lipoxygénase",
+      "metadata": {
+        "ec_number": "1.13.11.34",
+        "chembl_id": "CHEMBL215",
+        "applicable_tests": ["ANTIINF"],
+        "notes": "Voie des leucotriènes. Standard : zileuton, NDGA."
+      }
+    },
+    {
+      "abbreviation": "15-LOX",
+      "name": "15-Lipoxygénase",
+      "metadata": {
+        "ec_number": "1.13.11.33",
+        "chembl_id": "CHEMBL3687",
+        "applicable_tests": ["ANTIINF"],
+        "notes": "Anti-inflammatoire, antiathérogène. Standard : NDGA, baicaléine."
+      }
+    },
+    {
+      "abbreviation": "HNE",
+      "name": "Élastase neutrophile humaine",
+      "metadata": {
+        "ec_number": "3.4.21.37",
+        "chembl_id": "CHEMBL248",
+        "applicable_tests": ["ANTIINF"],
+        "notes": "Anti-âge, anti-inflammatoire (BPCO). Standard : sivelestat, EGCG."
+      }
+    }
+  ]
+}

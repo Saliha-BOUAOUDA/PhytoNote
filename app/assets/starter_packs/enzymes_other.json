@@ -1,0 +1,88 @@
+{
+  "name": "Enzymes — neurodégénératif, cosmétique, divers",
+  "description": "AChE/BChE (Alzheimer), tyrosinase/MMP-13/HYAL (anti-âge), XO (goutte), uréase, lipase pancréatique.",
+  "category": "enzyme",
+  "version": "1.0",
+  "entries": [
+    {
+      "abbreviation": "AChE",
+      "name": "Acétylcholinestérase",
+      "metadata": {
+        "ec_number": "3.1.1.7",
+        "chembl_id": "CHEMBL220",
+        "applicable_tests": [],
+        "notes": "Alzheimer, neurodégénératif. Standard : galantamine, donépézil."
+      }
+    },
+    {
+      "abbreviation": "BChE",
+      "name": "Butyrylcholinestérase",
+      "metadata": {
+        "ec_number": "3.1.1.8",
+        "chembl_id": "CHEMBL3403",
+        "applicable_tests": [],
+        "notes": "Alzheimer (cible secondaire). Standard : galantamine."
+      }
+    },
+    {
+      "abbreviation": "XO",
+      "name": "Xanthine oxydase",
+      "metadata": {
+        "ec_number": "1.17.3.2",
+        "chembl_id": "CHEMBL1929",
+        "applicable_tests": [],
+        "notes": "Goutte, hyperuricémie. Standard : allopurinol."
+      }
+    },
+    {
+      "abbreviation": "TYR",
+      "name": "Tyrosinase",
+      "metadata": {
+        "ec_number": "1.14.18.1",
+        "chembl_id": "CHEMBL3318",
+        "applicable_tests": [],
+        "notes": "Hyperpigmentation, cosmétique. Standard : acide kojique, arbutine. (Agaricus bisporus utilisé en routine)."
+      }
+    },
+    {
+      "abbreviation": "URE",
+      "name": "Uréase",
+      "metadata": {
+        "ec_number": "3.5.1.5",
+        "chembl_id": "CHEMBL4161",
+        "applicable_tests": [],
+        "notes": "Ulcère gastrique, urolithiase. Standard : thiourée, hydroxyurée."
+      }
+    },
+    {
+      "abbreviation": "PL",
+      "name": "Lipase pancréatique",
+      "metadata": {
+        "ec_number": "3.1.1.3",
+        "chembl_id": "CHEMBL2169728",
+        "applicable_tests": [],
+        "notes": "Antiobésité. Standard : orlistat."
+      }
+    },
+    {
+      "abbreviation": "MMP-13",
+      "name": "Collagénase 3 (matrix metalloproteinase 13)",
+      "metadata": {
+        "ec_number": "3.4.24.7",
+        "chembl_id": "CHEMBL280",
+        "applicable_tests": [],
+        "notes": "Anti-âge, ostéoarthrose. Standard : EGCG, batimastat."
+      }
+    },
+    {
+      "abbreviation": "HYAL",
+      "name": "Hyaluronidase",
+      "metadata": {
+        "ec_number": "3.2.1.35",
+        "chembl_id": "CHEMBL4528",
+        "applicable_tests": [],
+        "notes": "Anti-âge, anti-inflammatoire. Standard : aescine, héparine."
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bactéries — pathogènes alimentaires",
+  "description": "Souches utilisées en recherche sur la contamination alimentaire.",
+  "category": "bacteria",
+  "version": "1.0",
+  "entries": [
+    {
+      "abbreviation": "S. Typhimurium",
+      "name": "Salmonella enterica ser. Typhimurium",
+      "metadata": { "gram": "−", "atcc_suggested": "ATCC 14028", "notes": "Gastro-entérites." }
+    },
+    {
+      "abbreviation": "L. monocytogenes",
+      "name": "Listeria monocytogenes",
+      "metadata": { "gram": "+", "atcc_suggested": "ATCC 19115", "notes": "Listériose, psychrotrophe." }
+    },
+    {
+      "abbreviation": "B. cereus",
+      "name": "Bacillus cereus",
+      "metadata": { "gram": "+", "atcc_suggested": "ATCC 10876", "notes": "Toxi-infections." }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+**/build/
+**/.dart_tool/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Android
+app/android/.gradle/
+app/android/app/release/
+app/android/app/profile/
+app/android/app/debug/
+app/android/local.properties
+app/android/key.properties
+app/android/**/gradle-wrapper.jar
+app/android/.cxx/
+**/local.properties
+*.keystore
+*.jks
+
+# iOS / macOS
+app/ios/Pods/
+app/ios/.symlinks/
+app/ios/Flutter/Flutter.framework/
+app/ios/Flutter/Flutter.podspec
+app/ios/Runner.xcworkspace/xcuserdata/
+app/macos/Pods/
+**/Pods/
+**/xcuserdata/
+**/DerivedData/
+
+# Linux / Windows desktop builds
+app/linux/flutter/ephemeral/
+app/windows/flutter/ephemeral/
+app/macos/Flutter/ephemeral/
+
+# Coverage
+coverage/
+
+# Project artefacts (binaires distribués via Releases GitHub)
+PhytoNote-v*.apk
+*.deb
+*.aab
+
+# Données et captures personnelles
+scr/
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db

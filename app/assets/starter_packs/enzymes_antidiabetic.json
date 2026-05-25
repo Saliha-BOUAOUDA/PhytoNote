@@ -1,0 +1,28 @@
+{
+  "name": "Enzymes — antidiabétique",
+  "description": "α-amylase et α-glucosidase, cibles classiques pour les inhibiteurs anti-T2D.",
+  "category": "enzyme",
+  "version": "1.0",
+  "entries": [
+    {
+      "abbreviation": "α-amylase",
+      "name": "α-Amylase pancréatique",
+      "metadata": {
+        "ec_number": "3.2.1.1",
+        "chembl_id": "CHEMBL2045",
+        "applicable_tests": ["ANTIDIAB"],
+        "notes": "Hydrolyse l'amidon. Standard : acarbose."
+      }
+    },
+    {
+      "abbreviation": "α-glucosidase",
+      "name": "α-Glucosidase intestinale",
+      "metadata": {
+        "ec_number": "3.2.1.20",
+        "chembl_id": "CHEMBL2519",
+        "applicable_tests": ["ANTIDIAB"],
+        "notes": "Hydrolyse les disaccharides. Standard : acarbose."
+      }
+    }
+  ]
+}

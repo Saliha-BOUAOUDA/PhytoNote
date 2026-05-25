@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 README
+    url: https://github.com/Saliha-BOUAOUDA/PhytoNote#readme
+    about: Aperçu, installation et stack technique
+  - name: 📝 CHANGELOG
+    url: https://github.com/Saliha-BOUAOUDA/PhytoNote/blob/main/CHANGELOG.md
+    about: Voir les changements récents avant de créer une issue

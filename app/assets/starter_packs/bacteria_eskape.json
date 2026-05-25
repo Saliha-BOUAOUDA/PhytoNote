@@ -1,0 +1,38 @@
+{
+  "name": "Bactéries — panel ESKAPE / multirésistance",
+  "description": "Pathogènes ESKAPE pour recherche sur la résistance aux antibiotiques.",
+  "category": "bacteria",
+  "version": "1.0",
+  "entries": [
+    {
+      "abbreviation": "P. aeruginosa",
+      "name": "Pseudomonas aeruginosa",
+      "metadata": { "gram": "−", "atcc_suggested": "ATCC 27853", "notes": "ESKAPE." }
+    },
+    {
+      "abbreviation": "K. pneumoniae",
+      "name": "Klebsiella pneumoniae",
+      "metadata": { "gram": "−", "atcc_suggested": "ATCC 700603", "notes": "ESKAPE." }
+    },
+    {
+      "abbreviation": "E. faecalis",
+      "name": "Enterococcus faecalis",
+      "metadata": { "gram": "+", "atcc_suggested": "ATCC 29212", "notes": "ESKAPE — endocardites, ITU." }
+    },
+    {
+      "abbreviation": "A. baumannii",
+      "name": "Acinetobacter baumannii",
+      "metadata": { "gram": "−", "atcc_suggested": "ATCC 19606", "notes": "ESKAPE — multirésistant nosocomial." }
+    },
+    {
+      "abbreviation": "E. cloacae",
+      "name": "Enterobacter cloacae",
+      "metadata": { "gram": "−", "atcc_suggested": "ATCC 13047", "notes": "ESKAPE — β-lactamases." }
+    },
+    {
+      "abbreviation": "MRSA",
+      "name": "Staphylococcus aureus méthicillino-résistant",
+      "metadata": { "gram": "+", "atcc_suggested": "ATCC 43300", "notes": "Référence MDR Gram+." }
+    }
+  ]
+}

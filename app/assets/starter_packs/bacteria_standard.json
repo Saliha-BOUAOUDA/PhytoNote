@@ -1,0 +1,53 @@
+{
+  "name": "Bactéries — panel antibactérien standard",
+  "description": "Top 5 souches les plus testées en littérature antibactérienne végétale (Zouine 2024).",
+  "category": "bacteria",
+  "version": "1.0",
+  "entries": [
+    {
+      "abbreviation": "S. aureus",
+      "name": "Staphylococcus aureus",
+      "metadata": {
+        "gram": "+",
+        "atcc_suggested": "ATCC 25923",
+        "notes": "Cible n°1 en littérature antibactérienne végétale."
+      }
+    },
+    {
+      "abbreviation": "E. coli",
+      "name": "Escherichia coli",
+      "metadata": {
+        "gram": "−",
+        "atcc_suggested": "ATCC 25922",
+        "notes": "Cible n°2 — entérobactérie pathogène."
+      }
+    },
+    {
+      "abbreviation": "P. aeruginosa",
+      "name": "Pseudomonas aeruginosa",
+      "metadata": {
+        "gram": "−",
+        "atcc_suggested": "ATCC 27853",
+        "notes": "ESKAPE, opportuniste. Cible difficile (MIC élevés)."
+      }
+    },
+    {
+      "abbreviation": "K. pneumoniae",
+      "name": "Klebsiella pneumoniae",
+      "metadata": {
+        "gram": "−",
+        "atcc_suggested": "ATCC 700603",
+        "notes": "ESKAPE, KPC-producteur, infections nosocomiales."
+      }
+    },
+    {
+      "abbreviation": "B. subtilis",
+      "name": "Bacillus subtilis",
+      "metadata": {
+        "gram": "+",
+        "atcc_suggested": "ATCC 6633",
+        "notes": "Modèle Gram+ non-pathogène. Très sensible — contrôle positif fréquent."
+      }
+    }
+  ]
+}

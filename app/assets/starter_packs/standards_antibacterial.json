@@ -1,0 +1,27 @@
+{
+  "name": "Standards antibactériens",
+  "description": "Antibiotiques de référence pour la validation interne des plaques MIC.",
+  "category": "standard",
+  "version": "1.0",
+  "entries": [
+    {
+      "abbreviation": "CIP",
+      "name": "Ciprofloxacine",
+      "metadata": {
+        "equivalent_label": "CIPeq",
+        "chembl_id": "CHEMBL8",
+        "molar_mass_g_per_mol": 331.35,
+        "notes": "Fluoroquinolone large spectre. Couvre E. coli, S. aureus, S. pyogenes."
+      }
+    },
+    {
+      "abbreviation": "GENT",
+      "name": "Gentamicine sulfate",
+      "metadata": {
+        "equivalent_label": "GENTeq",
+        "chembl_id": "CHEMBL6067484",
+        "notes": "Aminoside large spectre. Standard MIC microdilution courant."
+      }
+    }
+  ]
+}
