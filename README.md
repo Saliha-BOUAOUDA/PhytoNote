@@ -106,6 +106,16 @@ Catalogue éditable (SQLite) : `plants`, `extracts`, `standards`, `bacteria`, `e
 
 Copyright © 2026 Saliha BOUAOUDA.
 
+## Auteur
+
+**Saliha BOUAOUDA** — Casablanca, Maroc (UTC +01:00)
+
+- Email : [sl.bouaouda@gmail.com](mailto:sl.bouaouda@gmail.com)
+- Site / hub : [phytochemhub.com](https://phytochemhub.com/)
+- LinkedIn : [saliha-bouaouda](https://www.linkedin.com/in/saliha-bouaouda-97b04320a/?locale=fr)
+- ResearchGate : [Saliha-Bouaouda](https://www.researchgate.net/profile/Saliha-Bouaouda)
+- ORCID : [0009-0000-9663-462X](https://orcid.org/0009-0000-9663-462X)
+
 ---
 
 PhytoNote fait partie de l'écosystème [**PhytochemHub**](https://phytochemhub.com) — plateforme d'agrégation des projets scientifiques.

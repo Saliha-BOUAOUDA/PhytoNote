@@ -79,9 +79,18 @@ class _SettingsScreenState extends State<SettingsScreen> {
             ),
             const SizedBox(height: 32),
             const Center(
-              child: Text(
-                '© 2026 Saliha BOUAOUDA',
-                style: TextStyle(color: AppColors.textMuted, fontSize: 12),
+              child: Column(
+                children: [
+                  Text(
+                    '© 2026 Saliha BOUAOUDA',
+                    style: TextStyle(color: AppColors.textMuted, fontSize: 12),
+                  ),
+                  SizedBox(height: 4),
+                  Text(
+                    'ORCID 0009-0000-9663-462X',
+                    style: TextStyle(color: AppColors.textMuted, fontSize: 11),
+                  ),
+                ],
               ),
             ),
           ],
