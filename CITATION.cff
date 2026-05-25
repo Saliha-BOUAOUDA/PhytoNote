@@ -20,6 +20,14 @@ authors:
 version: "1.0.1"
 date-released: "2026-05-25"
 license: GPL-3.0-or-later
+doi: 10.5281/zenodo.20376869
+identifiers:
+  - description: "Concept DOI (toutes versions confondues, pointe sur la dernière)"
+    type: doi
+    value: 10.5281/zenodo.20376869
+  - description: "DOI de la version 1.0.1 (immuable, pointe sur cette release précise)"
+    type: doi
+    value: 10.5281/zenodo.20376870
 repository-code: "https://github.com/Saliha-BOUAOUDA/PhytoNote"
 url: "https://phytochemhub.com/"
 keywords:

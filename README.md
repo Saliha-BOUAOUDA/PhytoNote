@@ -1,5 +1,8 @@
 # PhytoNote
 
+[![DOI](https://zenodo.org/badge/1248887820.svg)](https://doi.org/10.5281/zenodo.20376869)
+[![License: GPL v3+](https://img.shields.io/badge/License-GPL%20v3%2B-blue.svg)](./LICENSE)
+
 > Application **offline-first** (Android + Linux desktop) de saisie validée en temps réel pour spectrophotométrie UV en chimie des plantes.
 
 ## Pourquoi
@@ -245,6 +248,14 @@ Catalogue éditable (SQLite) : `plants`, `extracts`, `standards`, `bacteria`, `e
 [GPL-3.0-or-later](./LICENSE) — copyleft fort. Si vous redistribuez une version modifiée, vous devez publier vos modifications sous la même licence. Aligné avec la science ouverte (Linux, R, eLabFTW…).
 
 Copyright © 2026 Saliha BOUAOUDA.
+
+## Citation
+
+Si vous utilisez PhytoNote dans votre recherche, merci de le citer via le DOI Zenodo :
+
+> Bouaouda, S. (2026). *PhytoNote* (version 1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20376869
+
+Format BibTeX, RIS et CFF disponibles via le badge DOI en haut du README. Métadonnées machine-lisibles dans [`CITATION.cff`](./CITATION.cff).
 
 ## Auteur
 
